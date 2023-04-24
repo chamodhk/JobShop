@@ -1,0 +1,15 @@
+.custom-grid {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+}
+
+.grid-content{
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
